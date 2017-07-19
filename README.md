@@ -5,4 +5,4 @@ The "mod site" scripts check based on the phosphorylation site and amino acid (e
 
 The "homology" scripts check if the window around the phosphosite (+/- 7 amino acids) is identical to the phosphosite windows in the databases.
 
-Proceed at your own risk, since I think my method for cross-checking doesn't work so well.
+Proceed at your own risk, since I think my methods for cross-checking don't work so well.
